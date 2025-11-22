@@ -1,15 +1,19 @@
-<h1 align="center">Hi , I'm Cristhian Escriba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+Hey there! 👋🏻
 
+I’m Cristhian, an Aspiring Full-Stack Developer based in Lima.
 
-I'm a software development student, currently halfway through my degree. I'm passionate about both front-end and back-end development, and I'm always looking to expand my knowledge of new technologies. Although I don't have work experience yet, I'm seeking opportunities to apply my skills and continue growing professionally. I love learning and building projects that are productive, creative, and innovative.
+I love taking ideas and building them into productive, creative, and innovative applications.
 
-- :student: I'm currently studying Software Developer at ISIL.
-- :computer: I'm currently learning Node.js, MongoDB, MySQL, PHP, and Java.
-- ⚡ Outside tech, 👀 I love watch videos, 🎮 playing videogames, 🎵 listening to music, and 🎸 play the guitar.
-- :boom: Reach out to me at: crissfx28@gmail.com.
+My main tech stack is MERN Full-Stack JavaScript and TypeScript. My essential tools are Figma, VS Code, Notion, and the Claude CLI for productivity.
+
+📬 **Let's Connect!**
+I'm actively seeking entry-level opportunities and collaborations!
+Reach out to me at: **crissfx28@gmail.com**
+
+✨ **Fun Facts**
+* I love watch videos, playing videogames, and listening to music.
+* My escape is playing the guitar 🎸.
 
 <br><br>
 
