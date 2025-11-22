@@ -1,7 +1,7 @@
 
 Hey there! 👋🏻
 
-I’m Cristhian, an aspiring **Full-Stack Developer** based in Lima.
+I’m Cristhian, a **Full-Stack Developer** based in Lima.
 
 I love taking ideas and building them into productive, creative, and innovative applications.
 
