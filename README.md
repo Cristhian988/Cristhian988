@@ -9,7 +9,7 @@ My main tech stack is **MERN Full-Stack JavaScript and TypeScript**. My essentia
 **Notion**, and the **Claude CLI** for productivity.
 
 📬 **Let's Connect!**<br>
-**I'm actively seeking entry-level opportunities and collaborations!** <br>
+**I'm actively seeking opportunities and collaborations!** <br>
 Reach out to me at: **crissfx28@gmail.com**
 
 ✨ **Fun Facts**
