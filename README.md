@@ -1,15 +1,15 @@
 
 Hey there! 👋🏻
 
-I’m Cristhian, an Aspiring Full-Stack Developer based in Lima.
+I’m Cristhian, an aspiring **Full-Stack Developer** based in Lima.
 
 I love taking ideas and building them into productive, creative, and innovative applications.
 
-My main tech stack is MERN Full-Stack JavaScript and TypeScript. My essential tools are Figma, VS Code, <br>
-Notion, and the Claude CLI for productivity.
+My main tech stack is **MERN Full-Stack JavaScript and TypeScript**. My essential tools are **Figma**, **VS Code**, <br>
+**Notion**, and the **Claude CLI** for productivity.
 
 📬 **Let's Connect!**<br>
-I'm actively seeking entry-level opportunities and collaborations!<br>
+**I'm actively seeking entry-level opportunities and collaborations!** <br>
 Reach out to me at: **crissfx28@gmail.com**
 
 ✨ **Fun Facts**
